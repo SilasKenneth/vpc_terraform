@@ -1,0 +1,6 @@
+secret_id="<AMAZON_SECRET_ID>"
+ami_id="<AMI_ID>"
+secret_key="<AMAZON_SECRET_KEY>"
+nat_instance_ami="<AMI_ID_FOR_NAT_INSTANCE>"
+back_end_ami="<AMI_FOR_FRONT_END>"
+front_end_ami="<FRONT_END_AMI>"
