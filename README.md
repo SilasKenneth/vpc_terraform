@@ -29,6 +29,8 @@ Once the setup is complete, we just run `terraform plan` to plan on how the chan
 After that we run `terraform apply` to apply the changes to AWS.
 
 And with that, we have our private network with all the instances. We navigate to instances and enter the IP address of the frontend to access the FronteEnd of the application.
-
+To confirm the resources, go to the AWS console
+#### How to destroy resources.
+To destroy the resources, just run `terraform destroy` then input `yes` to confirm that you want to destroy the resources.
 
 
